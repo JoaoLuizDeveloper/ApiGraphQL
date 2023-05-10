@@ -1,0 +1,15 @@
+{
+  "musics": [
+    {
+      "music": "nome musica",
+      "comment": "gosto",
+      "artists": [
+        {
+          "name": "artista teste",
+          "id": "f2f686a6-ef87-11ed-a05b-0242ac120003"
+        }
+      ],
+      "id": "e110f692-ef87-11ed-a05b-0242ac120003"
+    }
+  ]
+}
